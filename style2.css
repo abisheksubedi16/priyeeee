@@ -70,3 +70,8 @@ overflow: hidden;
 overflow-y: scroll;
 }
 
+@media(max-width:700px){
+    marquee{
+        display:none;
+    }
+}
